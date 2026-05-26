@@ -1,0 +1,6 @@
+{
+  "name": "Study Timer",
+  "description": "A gamified Study Time Tracker with custom timers, subject tags, an XP leveling system, and an evolving virtual companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
